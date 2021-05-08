@@ -1,0 +1,8 @@
+https://www.transportpolicy.net/standard/india-air-quality-standards/
+AQI Category or Bucket is used to group the AQI values into six categories based on the value namely:
+ Good(0–50)
+ , Satisfactory (51–100),
+  Moderate (101–200),
+   Poor (201–300),
+    Very Poor (301–400),
+     Severe (401–500).
