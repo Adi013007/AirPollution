@@ -1,2 +1,6 @@
-# AirPollution
-Code is contained in the code folder.I have attempted to create an ml model to classify cities according to AQI bucket
+# Data
+https://www.kaggle.com/rohanrao/air-quality-data-in-india
+#Code
+It is present in the code folder
+#Code execution
+For the code to run,the data and the notebook have to be in the same directory
