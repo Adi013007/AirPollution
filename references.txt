@@ -6,3 +6,5 @@ AQI Category or Bucket is used to group the AQI values into six categories based
    Poor (201–300),
     Very Poor (301–400),
      Severe (401–500).
+  Data
+  https://www.kaggle.com/rohanrao/air-quality-data-in-india
